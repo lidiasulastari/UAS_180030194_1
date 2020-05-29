@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS 180030194 1</string>
+    <string name="id_kampus">ID Kampus</string>
+    <string name="nama_kampus">Nama Kampus</string>
+    <string name="alamat">Alamat Kampus</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="caption">Caption Gambar</string>
+    <string name="telepon">Telepon</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="linl">Link</string>
+    <string name="tambah">Tambah Kampus</string>
+    <string name="edit">Edit Kampus</string>
+    <string name="hapus">Hapus Kampus</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_kampus">Data Kampus</string>
+</resources>
